@@ -1,6 +1,14 @@
 # BKE-Blue-Elk-Theme
 A modified Blue version of Be Social theme for ElkArte Forums<br /><br />
 
+<p>Made by: <a href="http://www.elkarte.net/community/index.php?action=profile;u=130">BurkeKnight</a> - <a href="http://www.burkeknight.com/">BurkeKnight Enterprises</a></p>
+<br />
+
+[![Forks](https://img.shields.io/github/forks/BurkeKnight-Enterprises/BKE-Blue-Elk-Theme.svg)](https://github.com/BurkeKnight-Enterprises/BKE-Blue-Elk-Theme/network)
+[![Stars](https://img.shields.io/github/stars/BurkeKnight-Enterprises/BKE-Blue-Elk-Theme.svg)](hhttps://github.com/BurkeKnight-Enterprises/BKE-Blue-Elk-Theme/stargazers)
+[![Open Issues](https://img.shields.io/github/issues/BurkeKnight-Enterprises/BKE-Blue-Elk-Theme.svg)](https://github.com/BurkeKnight-Enterprises/BKE-Blue-Elk-Theme/issues)
+[![Current Release](https://img.shields.io/github/release/BurkeKnight-Enterprises/BKE-Blue-Elk-Theme.svg)](https://github.com/BurkeKnight-Enterprises/BKE-Blue-Elk-Theme/releases)
+[![License](https://img.shields.io/pypi/l/Django.svg)](http://opensource.org/licenses/BSD-3-Clause)<br /><br />
 
 A blue version of Be Social, with some added features.<br />
 Favicon support, using an image, to provide better support for mobile devices.<br />
