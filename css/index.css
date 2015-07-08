@@ -6401,19 +6401,19 @@ background-color: #DBEAF9;
 	}
 	.on_board {
 	background-repeat: no-repeat;
-	background-image: url(../../images/board/new_some.png);
+	background-image: url(../images/board/new_some.png);
 }
 .on2_board {
 	background-repeat: no-repeat;
-	background-image: url(../../images/board/new_some.png);
+	background-image: url(../images/board/new_some.png);
 }
 .off_board {
 	background-repeat: no-repeat;
-	background-image: url(../../images/board/new_none.png);
+	background-image: url(../images/board/new_none.png);
 }
 .redirect_board {
 	background-repeat: no-repeat;
-	background-image: url(../../images/board/new_redirect.png);
+	background-image: url(../images/board/new_redirect.png);
 }
 	.forumposts .windowbg2 {
 		background-color: #fafafa;
